@@ -1,21 +1,18 @@
 
-	[PUTAIN - About]
-
+[PUTAIN - About]
 	This is a brainfuck interpreter, probably the fastest one due to
 	the way it is implmented since it avoids the use of stack, instead
-	uses registers as much as it can; this is a pretty good project to
+	uses registers as much as it can. This is a pretty good project to
 	give x86 a try!
 
-	[PUTAIN - Usage]
-
+[PUTAIN - Usage]
 	% make
 	% puta [filename]
 
 	if [filename] does not exist or it causes any error the puta will
 	tell you :)
 
-	[PUTAIN - aFaire]
-
+[PUTAIN - aFaire]
 	[ ]	Check the correct usage of the program.
 	[ ]	Check file given.
 	[ ]	Allocate space for file on heap.
@@ -26,5 +23,5 @@
 	[ ]	Interpret and execute.
 	[ ]	Chante "Recto Verso"
 
-	juan diego pmz
+	juan diego pmz (Moi3Moi)
 	Mon Sep 2 2024
