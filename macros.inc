@@ -4,8 +4,8 @@
 
 
 .macro	FINI, a
-	movq	$60, %rax
 	movq	\a, %rdi
+	movq	$60, %rax
 	syscall
 .endm
 
