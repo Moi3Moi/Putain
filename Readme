@@ -12,10 +12,10 @@
 	tell you :)
 
 [PUTAIN - aFaire]
-	[ ]	Check the correct usage of the program.
-	[ ]	Check file given.
-	[ ]	Allocate space for file on heap.
-	[ ]	Read file.
+	[+]	Check the correct usage of the program.
+	[+]	Check file given.
+	[+]	Allocate space for file on heap.
+	[+]	Read file.
 	[ ]	Lex file.
 	[ ]	Proper error system.
 	[ ]	Parser.
