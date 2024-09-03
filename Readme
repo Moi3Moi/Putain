@@ -1,4 +1,3 @@
-
 [PUTAIN - About]
 	This is a brainfuck interpreter, probably the fastest one due to
 	the way it is implmented since it avoids the use of stack, instead
